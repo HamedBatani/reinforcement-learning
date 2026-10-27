@@ -1,0 +1,117 @@
+[
+  {
+    "file": "presentations/semi-markov-decision-processes/SMDP.pdf",
+    "sha256": "f3b4bc3d1fd8e3730b7461611d3cf902deea17d839f459103a1181f9a0a68b65",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/questions/RL_HW1.pdf",
+    "sha256": "8fca6370fa93c1b90e944e737e9b5fc551d4463e35f10287819c791f2ff027c5",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/theoretical-solutions/main.pdf",
+    "sha256": "c928077a0b4f58117c4532667ded8272b3761338df7699ab534fa0a19dacf6aa",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/theoretical-solutions/main.tex",
+    "sha256": "7f3ac951ba0c5d1e5c9251fc4b3c04f5b5b88c96ed8eef1b1fe97ac9e35bab17",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/HW1_402101339.ipynb",
+    "sha256": "1f60f16f98ef8e130a6c80458cd0d26a89ec6dedbcaf248e916eaaec7adfc14a",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_1/subpart_a/estimated_values_1000_steps.png",
+    "sha256": "89eb5dad3b19f9bb0429ec78712d48eb729808007e31e38aad32ba3d3a21d47f",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_1/subpart_a/estimated_values_20_steps.png",
+    "sha256": "647474d8afef6fd027d678602e8d90bda33bc65f442db950c01f8f87f830af09",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_1/subpart_b/rewards_and_10_step_average.png",
+    "sha256": "45110c22460544fffa433d3f16299bee8913821a411196712b37f2f06882da82",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_1/subpart_c/fixed_arms_performance.png",
+    "sha256": "55fbf6541db71199113b56c0d31c6d55caf45b67d8a225a09ce2901ba68f2cb3",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_1/subpart_d/random_arms_performance.png",
+    "sha256": "0c4e76a7ef67c60c735387c2908473de84cfe7b55732dc8e0009a7cb7c98304e",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_2/subpart_a/average_reward.png",
+    "sha256": "d07ae76468f6dbb53f7adec9f626c543eb3b35e3f277ed2bc2657b46bb26171f",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_2/subpart_a/optimal_actions.png",
+    "sha256": "47edf35ecc207ff08dd353b8a16414cc268a060a1314ac0a1f0daf47f46350fa",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_2/subpart_b/average_reward.png",
+    "sha256": "c826681cfe32ae11b5674c1428b31fe6d997875a460215d6e5a0f82c2d28cf12",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_2/subpart_b/optimal_actions.png",
+    "sha256": "ebe166d921ad341b3b6d0eccce214e306568f5ad2a88deb0f53b1670c09c2dd7",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_3/average_reward.png",
+    "sha256": "504b3d70e7454de8d6a3315b4b46604824903fc52c3c66a995823f3990403ba1",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_1/part_3/optimal_actions.png",
+    "sha256": "87bfa1233245d37f8c9ae815cc181fbe3b8d0ba3ffdd41362f04838440f27469",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_2/task_1/average_reward.png",
+    "sha256": "13bcb5d3aa7af6685cf82919faaf311cd414f49ea7a869fd1fe2602771e65257",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_2/task_1/optimal_actions.png",
+    "sha256": "e62b5e683ee1c1fbd777f5eca87ebc460ea4388b2344dd9f55927f44a7077068",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_2/task_2/average_reward.png",
+    "sha256": "d196080adba0170cb79860467107b611a4c00c849136ababa27a69af4fc68854",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_2/task_2/cumulative_regret.png",
+    "sha256": "771add1f47056d446e7d3b8e923ea22eb29fb820cbf58ef3b8b4812f0a1104ba",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_2/task_2/optimal_actions.png",
+    "sha256": "b8976ce91fe79b1598d45fd6f03376b99b6d3e2d1223a7c6e7d64b2ea349c6c2",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_2/task_3/average_reward.png",
+    "sha256": "f5c671e51e734d35febd5ca2b0c9df313d6aa225253b8b3e130fe4527fe964b5",
+    "treatment": "Original file preserved unchanged"
+  },
+  {
+    "file": "homework/hw-01/simulation/results/question_2/task_3/optimal_actions.png",
+    "sha256": "ef6bdfe6331828a71bed1551adb5f926e4cce820bb91b2b627583d0432799fce",
+    "treatment": "Original file preserved unchanged"
+  }
+]
